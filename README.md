@@ -15,7 +15,7 @@ You can install the released version of pl361 from
 
 ``` r
 library(remotes)
-remotes::install_github("A-Farina/pl361", ref = "main")
+remotes::install_github("A-Farina/pl361")
 ```
 
 ## helicopter dataset
